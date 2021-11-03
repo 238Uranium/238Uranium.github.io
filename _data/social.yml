@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://niuyugong@outlook.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/Wzom
+  icon: fab fa-github
