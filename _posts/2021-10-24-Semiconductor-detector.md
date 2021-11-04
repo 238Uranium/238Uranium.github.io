@@ -1,17 +1,9 @@
 ---
 layout: post
-title: Semiconductor detector
+title: 光电倍增管
 tags: Semiconductor
 math: true
 date: 2021-10-24 15:32 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
-
-An inline math: \\\(E=mc^2\\\).
-
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+光电倍增管是将微弱光信号转换成电信号的真空电子器件。光电倍增管用在光学测量仪器和光谱分析仪器中。它能在低能级光度学和光谱学方面测量波长200~1200纳米的极微弱辐射功率。闪烁计数器的出现，扩大了光电倍增管的应用范围。激光检测仪器的发展与采用光电倍增管作为有效接收器密切有关。电视电影的发射和图象传送也离不开光电倍增管。光电倍增管广泛地应用在冶金、电子、机械、化工、地质、医疗、核工业、天文和宇宙空间研究等领域。PMT 的结构——光电倍增管为电真空器件
+光电倍增管建立在外光电效应、二次电子发射和电子光学理论基础上，结合了高增益、低噪声、高频率响应和大信号接收区等特征，是一种具有极高灵敏度和超快时间响应的光敏电真空器件，可以工作在紫外、可见和近红外区的光谱区。日盲紫外光电倍增管对日盲紫外区以外的可见光、近紫外等光谱辐射不灵敏，具有噪声低（暗电流小于1nA）、响应快、接收面积大等特点
