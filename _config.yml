@@ -1,7 +1,7 @@
 # Setup
 title: Wzom's blog
 description: Temporarily only used for digital and electronic courses
-url: https://wzom.github.io/
+url: https://github.com/238Uranium
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -36,7 +36,7 @@ social:
   name: Wzom
   links:
     - https://twitter.com/
-    - https://github.com/Wzom
+    - https://github.com/238Uranium
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,14 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Wzom
-  url: https://github.com/Wzom
+  name: 238Uranium
+  url: https://github.com/238Uranium
   email: niuyugong@outlook.com
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy: 
+  type: git 
+  repo: 
+      github: git@github.com:238Uranium/238Uranium.github.io.git,gh-pages
+      coding: git@git.coding.net:238Uranium/238Uranium.git,master
